@@ -1,4 +1,4 @@
-1. The data were collected using Emotv Epoc Flex, with a sampling frequency of 128 Hz.
+1. The data were collected using Emotiv Epoc Flex, with a sampling frequency of 128 Hz.
 
 2. 36 subjects participated in the study; each was exposed to 3 stimuli, making a total (36*3) 108 files.
 
