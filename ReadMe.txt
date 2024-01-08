@@ -12,4 +12,4 @@
 
 7. Following the international 10-20 EEG system, data were collected from these 16 channels - Cz, Fz Fp1, F7, F3, C3, P3, O1, Pz, Oz, O2, P4, C4, F4, F8, and Fp2.
 
-8. The columns of the data files indicate the channels with this serial, and the rows indicate the samples.
+8. The columns of the data files indicate the channels with this serial (Cz, Fz Fp1, F7, F3, C3, P3, O1, Pz, Oz, O2, P4, C4, F4, F8, and Fp2), and the rows indicate the samples.
